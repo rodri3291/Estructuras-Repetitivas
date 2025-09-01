@@ -1,6 +1,6 @@
 # Estructuras-Repetitivas
-Programaci-n1---Estructuras-Condicionales
-UTN-TUPaD--Programacion1 Trabajo Práctico 3
+Programaci-n1---Estructuras-Repetitivas
+UTN-TUPaD--Programacion1 Trabajo Práctico 4
 
 Tecnicatura Universitaria en Programación 📍 Universidad Tecnológica Nacional
 
